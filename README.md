@@ -17,6 +17,7 @@ Semua komponen dipasang **di dalam folder ini** — tidak mengubah Python atau P
 | `start_all.bat` | Broker + Jupyter Lab |
 | `start_broker.bat` | Broker Mosquitto saja (port 1883) |
 | `start_jupyter.bat` | Jupyter Lab saja |
+| `stop_all.bat` | Hentikan broker + Jupyter Lab (hanya yang berjalan dari folder ini) |
 | `uji_mqtt.bat` | Tes publish/subscribe ke broker (`uji_mqtt.bat 192.168.1.10` untuk broker lain) |
 | `bersihkan.bat` | Hapus Python, Mosquitto, dan unduhan lokal |
 | `config/mosquitto.conf` | Konfigurasi broker (WebSocket & password tersedia sebagai opsi) |
