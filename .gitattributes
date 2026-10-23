@@ -1,0 +1,7 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Pastikan script Windows tetap CRLF saat di-clone
+*.bat text eol=crlf
+*.ps1 text eol=crlf
+*.conf text eol=crlf

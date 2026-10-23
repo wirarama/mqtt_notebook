@@ -1,0 +1,6 @@
+paho-mqtt>=2.1
+jupyterlab>=4.2
+ipykernel
+ipywidgets
+pandas
+matplotlib

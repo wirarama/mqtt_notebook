@@ -1,0 +1,7 @@
+# Hasil instalasi lokal (dibuat ulang oleh setup.bat)
+python/
+mosquitto/
+downloads/
+config/passwd
+.ipynb_checkpoints/
+__pycache__/
